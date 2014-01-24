@@ -1,0 +1,30 @@
+﻿h1, span, textarea, #SubmitButton {
+    font-family: 'Trebuchet MS', sans-serif;
+    display: block;
+    margin: 2% 0;
+}
+h1, form{
+    margin-left: 4%;
+    padding-left: 2%;
+}
+form{
+    border-left: 1px solid black;
+}
+h1{
+    width: 600px;
+    border-bottom: 20px solid gray;    
+}
+textarea{
+    width: 595px;
+}
+#SubmitButton{
+    width: 150px;
+    height: 40px;
+    font-size: inherit;
+}
+#Atag{
+    background-color: yellow;
+}
+#ErrorCode{
+    font-size: 1.5em;
+}
